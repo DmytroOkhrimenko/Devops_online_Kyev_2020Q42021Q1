@@ -1,0 +1,18 @@
+d6c7162 (HEAD -> main, origin/main, origin/HEAD) HEAD@{0}: pull origin main: Merge made by the 'recursive' strategy.
+9715107 (origin/develop, develop) HEAD@{1}: merge develop: Fast-forward
+a4515cb HEAD@{2}: checkout: moving from develop to main
+9715107 (origin/develop, develop) HEAD@{3}: commit (merge): Merge branch 'styles' into develop and fix conflict
+07a2682 (origin/images, images) HEAD@{4}: merge images: Fast-forward
+5ffe032 HEAD@{5}: checkout: moving from styles to develop
+cdcad9c (origin/styles, styles) HEAD@{6}: commit: Second changes index.html
+f31b823 HEAD@{7}: commit: Create folder styles
+5ffe032 HEAD@{8}: checkout: moving from develop to styles
+5ffe032 HEAD@{9}: checkout: moving from images to develop
+07a2682 (origin/images, images) HEAD@{10}: commit: Change index.hlml
+46f5ef8 HEAD@{11}: commit: Create folder images
+5ffe032 HEAD@{12}: checkout: moving from develop to images
+5ffe032 HEAD@{13}: commit: I create new file index.html
+a4515cb HEAD@{14}: checkout: moving from main to develop
+a4515cb HEAD@{15}: commit: I create file readme
+3d03648 HEAD@{16}: clone: from https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1.git
+
