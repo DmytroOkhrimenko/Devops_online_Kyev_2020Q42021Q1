@@ -1,7 +1,7 @@
 # Devops_online_Kyev_2020Q42021Q1
 
 Task1.1
-1. This screen was create by me[Dmytro Okhrimenko](https://Screens.github.com/).
+1. This screen was create by me[Dmytro Okhrimenko](https://Scre.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m1/Task1.1/Screens/1.png)
 2. This screen was create by me[Dmytro Okhrimenko](https://Screens.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m1/Task1.1/Screens/2.png)
