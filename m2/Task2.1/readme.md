@@ -23,10 +23,13 @@ KVM is available from the outset.
 ### PART 2. WORK WITH VIRTUALBOX
 
 1.1 Done
+
 1.2 Done	
+
 1.3 [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/1.png)
 1.4 Done
+
 1.5 [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/2.png)
 1.6 [Dmytro Okhrimenko](https://Screens2.github.com/).
@@ -39,6 +42,7 @@ KVM is available from the outset.
 2.0 Configuration of virtual machines
 
 2.1 Done
+
 2.2 [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/7.png)
 
@@ -51,6 +55,7 @@ KVM is available from the outset.
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/9.png)
 
 3.1 Done
+
 3.2 [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/10.png)
 
@@ -61,6 +66,7 @@ Vagrant — продукт компании HashiCorp, специализиру�
  повторяемые и переносимые окружения для разработки.
     
 1. Done
+
 2. [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/11.png)
 3. [Dmytro Okhrimenko](https://Screens2.github.com/).
@@ -71,9 +77,11 @@ Vagrant — продукт компании HashiCorp, специализиру�
 5. [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/13.png)
 6. 
+
 7. [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/14.png)
 8. 
+
 9. [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/15.png)
 [Dmytro Okhrimenko](https://Screens2.github.com/).
