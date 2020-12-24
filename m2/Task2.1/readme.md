@@ -1,6 +1,6 @@
 Task2.1
 
-###PART 1.0 HYPERVISORS
+### PART 1.0 HYPERVISORS
 
 1. VMWARE, HYPER V, KVM
 
@@ -20,13 +20,13 @@ VMware is the most expensive solution,
 Hyper-V is cheaper (or, when using Hyper-V Server and Linux virtual machines, it is generally free), 
 KVM is available from the outset.
 
-###PART 2. WORK WITH VIRTUALBOX
+### PART 2. WORK WITH VIRTUALBOX
 
-1.1-Done
-1.2-Done	
+1.1 Done
+1.2 Done	
 1.3 [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/1.png)
-1.4-Done
+1.4 Done
 1.5 [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/2.png)
 1.6 [Dmytro Okhrimenko](https://Screens2.github.com/).
@@ -38,7 +38,7 @@ KVM is available from the outset.
 
 2.0 Configuration of virtual machines
 
-2.1-Done
+2.1 Done
 2.2 [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/7.png)
 
@@ -54,7 +54,7 @@ KVM is available from the outset.
 3.2 [Dmytro Okhrimenko](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m2/Task2.1/Screens2/10.png)
 
-###PART 3. WORK WITH VAGRANT
+### PART 3. WORK WITH VAGRANT
 Vagrant — продукт компании HashiCorp, специализирующейся
  на инструментах для автоматизации разработки и эксплуатации. 
  Он позволяет создавать и конфигурировать легковесные,
