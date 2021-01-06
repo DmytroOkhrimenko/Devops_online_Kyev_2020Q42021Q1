@@ -23,10 +23,10 @@ Done
 6. Простежити за порядком і шляхом проходження пакетів у вікні
 Done
 7. Переглянути інформацію о пакетах з вікна Simulation Panel 
-ggg
+
 [](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m4/Task4.1/Screens4/7.png)
-ggg
+
 8. Видалити IP адреса з кожною локальною машини PC0 - PC3.
 
 [](https://Screens2.github.com/).
