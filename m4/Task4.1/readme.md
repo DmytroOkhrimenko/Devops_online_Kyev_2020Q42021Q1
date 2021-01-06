@@ -26,9 +26,12 @@ Done
 
 [](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m4/Task4.1/Screens4/7.png)
+
 8. Видалити IP адреса з кожною локальною машини PC0 - PC3.
+
 [](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m4/Task4.1/Screens4/8.png)
+
 without assigning ip addresses - packets do not pass.
 9. Зібрати наступний проект 
 10. Кожному мережному компоненту привласнити IP адрес з наступної таблиці:
