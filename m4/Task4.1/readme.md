@@ -4,7 +4,7 @@
 
 TASK 4.1
 1. Зібрати наступний проект (рис 1), який містить в собі: 4 ПК типу PCPT, Концентратор (Hub-PT). 
-[dm](https://Screens2.github.com/).
+[](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m4/Task4.1/Screens4/1.png)
 2. Зберегти проект і його скріншот.
 Done
