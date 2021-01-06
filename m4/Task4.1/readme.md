@@ -16,7 +16,7 @@ PC3 192.168.0.4
 Значення маски для адреси: 255.255.255.0.
 Done
 4. Перевірити працездатність отриманої мережі 
-[fgf](https://Screens2.github.com/).
+[](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m4/Task4.1/Screens4/4.png)
 5. Перейти в режим Simulation і за допомогою кнопки Event List
 Done
