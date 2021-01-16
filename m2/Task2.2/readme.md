@@ -1,8 +1,3 @@
-![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m4/Task2.2/Screens2_2/1.png)
-
-
-
-
 
 1. Read the terms of Using the AWS Free Tier and the ability to control their own costs.
 Done
