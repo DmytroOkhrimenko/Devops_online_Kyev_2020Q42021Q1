@@ -2,10 +2,9 @@
 TASK5.3
 Part1
 1. How many states could has a process in Linux?
-
-    1.состояния выполнения
-    2.состояния ожидания
-    3.состояния готовности 
+-состояния выполнения
+-состояния ожидания
+-состояния готовности 
 	
 2. Examine the pstree command. 
 Make output (highlight) the chain (ancestors) of the current
