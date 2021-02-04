@@ -145,15 +145,15 @@ screenshots: command – result should be presented)
 2. Implement basic SSH settings to increase the security of the client-server connection 
 [](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m5/Task5.3/Screens/10.png)
-Мложно повысить безопасность несколькими способами:
-Port 2222  сменить порт, по умолчанию 22  ssh ubuntu@192.168.0.46 -p 2222
-PermitRootLogin no   отключить root-доступ
-PasswordAuthentication no  отключить парольную аутентификацию
-PermitEmptyPasswords no  отключить возможность залогинится с пустым паролем
-Protocol 2   работать с протоколом ssh2
-PubkeyAuthentication yes аутентификация на основе SSH2 RSA-ключей 
+- Мложно повысить безопасность несколькими способами:
+- Port 2222  сменить порт, по умолчанию 22  ssh ubuntu@192.168.0.46 -p 2222
+- PermitRootLogin no   отключить root-доступ
+- PasswordAuthentication no  отключить парольную аутентификацию
+- PermitEmptyPasswords no  отключить возможность залогинится с пустым паролем
+- Protocol 2   работать с протоколом ssh2
+- PubkeyAuthentication yes аутентификация на основе SSH2 RSA-ключей 
 или 
-sudo nano /etc/ssh/sshd_config   файл конфигурации можно раскоментить вручную
+ -sudo nano /etc/ssh/sshd_config   файл конфигурации можно раскоментить вручную
 
 3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
 ssh-keygen -t rsa   создать паруключей
