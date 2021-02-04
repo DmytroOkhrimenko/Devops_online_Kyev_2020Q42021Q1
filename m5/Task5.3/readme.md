@@ -151,9 +151,9 @@ screenshots: command – result should be presented)
 - PasswordAuthentication no  отключить парольную аутентификацию
 - PermitEmptyPasswords no  отключить возможность залогинится с пустым паролем
 - Protocol 2   работать с протоколом ssh2
-- PubkeyAuthentication yes аутентификация на основе SSH2 RSA-ключей 
-или 
- -sudo nano /etc/ssh/sshd_config   файл конфигурации можно раскоментить вручную
+- PubkeyAuthentication yes аутентификация на основе SSH2 RSA-ключей
+ -sudo nano /etc/ssh/sshd_config   
+ - файл конфигурации можно раскоментить вручную
 
 3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
 ssh-keygen -t rsa   создать паруключей
