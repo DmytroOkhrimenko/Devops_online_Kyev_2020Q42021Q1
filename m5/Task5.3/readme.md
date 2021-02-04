@@ -31,25 +31,25 @@ execution, the group owner of this process, etc.
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m5/Task5.3/Screens/3a.png)
 
 6. How to define kernel processes and user processes?
-ps aux | head   процесы ядра будут показаны в квадратных скобках [  ]
-процес  init     прародитель всех процессов имеет pid1
+- ps aux | head   процесы ядра будут показаны в квадратных скобках [  ]
+- процес  init     прародитель всех процессов имеет pid1
 
 7. Print the list of processes to the terminal. Briefly describe the statuses of the processes.
 What condition are they in, or can they be arriving in?
 [](https://Screens2.github.com/).
 ![image of Dmytro](https://github.com/DmytroOkhrimenko/Devops_online_Kyev_2020Q42021Q1/blob/main/m5/Task5.3/Screens/5.png)
-R - процесс выполняется или готов к выполнению (состояние готовности)
-D - процесс в "беспробудном сне" - ожидает дискового ввода/вывода
-T - процесс остановлен (stopped) или трассируется отладчиком
-S - процесс в состоянии ожидания (sleeping)
-Z - процесс-зобми
-< - процесс с отрицательным значением nice
-N - процесс с положительным значением nice
-I - процес бездействует
+- R - процесс выполняется или готов к выполнению (состояние готовности)
+- D - процесс в "беспробудном сне" - ожидает дискового ввода/вывода
+- T - процесс остановлен (stopped) или трассируется отладчиком
+- S - процесс в состоянии ожидания (sleeping)
+- Z - процесс-зобми
+- < - процесс с отрицательным значением nice
+- N - процесс с положительным значением nice
+- I - процес бездействует
 
-Из состояния готовности процесс может перейти только в состояние выполнения 
-Из состояния выполнения процесс может перейти либо в состояние ожидания или состояние готовности 
-Из состояния ожидания в готовность
+- Из состояния готовности процесс может перейти только в состояние выполнения 
+- Из состояния выполнения процесс может перейти либо в состояние ожидания или состояние готовности 
+- Из состояния ожидания в готовность
 
 
 8. Display only the processes of a specific user.
@@ -58,8 +58,8 @@ I - процес бездействует
 
 9. What utilities can be used to analyze existing running tasks (by analyzing the help for the ps
 command)?
-ps -e или  ps -A  или ps -r
-или top  для просмотра процессов в реальном времени
+- ps -e или  ps -A  или ps -r
+- или top  для просмотра процессов в реальном времени
 
 10. What information does top command display?
 top (table of processes) — консольная команда, которая выводит список 
@@ -74,18 +74,18 @@ top -u  имя_юзера
 
 
 12. What interactive commands can be used to control the top command? Give a couple of examples.
-    [1] Отобразить всю статистику по всем ядрам.
-    [c] Абсолютный путь расположения модуля команды и её аргументы.
-    [h] Вывести справку о программе.
-    [k] Уничтожить процесс. Программа запрашивает у вас код процесса и сигнал, который будет ему послан.
-    [M] Сортировать по объёму используемой памяти.
-    [n] Изменить число отображаемых процессов. Вам предлагается ввести число.
-    [P] Сортировать по загрузке процессора.
-    [r] Изменить приоритет процесса.
-    [u] Сортировать по имени пользователя.
-    [Z] Выбрать цвет подсветки.
-    [z] Подсветить работающие процессы.
-    [Пробел] Немедленно обновить содержимое экрана.
+-    [1] Отобразить всю статистику по всем ядрам.
+-    [c] Абсолютный путь расположения модуля команды и её аргументы.
+-    [h] Вывести справку о программе.
+-    [k] Уничтожить процесс. Программа запрашивает у вас код процесса и сигнал, который будет ему послан.
+-    [M] Сортировать по объёму используемой памяти.
+-    [n] Изменить число отображаемых процессов. Вам предлагается ввести число.
+-    [P] Сортировать по загрузке процессора.
+-    [r] Изменить приоритет процесса.
+-    [u] Сортировать по имени пользователя.
+-    [Z] Выбрать цвет подсветки.
+-    [z] Подсветить работающие процессы.
+-    [Пробел] Немедленно обновить содержимое экрана.
     
     
 13. Sort the contents of the processes window using various parameters (for example, the
@@ -97,8 +97,8 @@ top P
 
 14. Concept of priority, what commands are used to set priority?
 
-nice
-renice
+- nice
+- renice
 
 
 15. Can I change the priority of a process using the top command? If so, how?
@@ -107,10 +107,10 @@ top r
 
 16. Examine the kill command. How to send with the kill command
 process control signal? Give an example of commonly used signals.
-kill -s(сигнал)
-kill id_process
-kill -9
-kill -15
+- kill -s(сигнал)
+- kill id_process
+- kill -9
+- kill -15
 
 17. Commands jobs, fg, bg, nohup. What are they for? Use the sleep, yes command to
 demonstrate the process control mechanism with fg, bg.
